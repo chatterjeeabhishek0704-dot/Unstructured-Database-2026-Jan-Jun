@@ -1,0 +1,53 @@
+attendance_check.py
+student_list*.csv
+
+# --------------------
+# OS-generated files
+# --------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --------------------
+# Logs
+# --------------------
+*.log
+logs/
+*.out
+
+# --------------------
+# Environment & secrets
+# --------------------
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.crt
+secrets/
+credentials/
+
+
+# --------------------
+# IDEs & editors
+# --------------------
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+# --------------------
+# Misc
+# --------------------
+tmp/
+temp/
+.cache/
